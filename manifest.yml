@@ -1,0 +1,9 @@
+applications:
+- path: jpbackendmsktemplate.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: javaplays-rest-basic
+  host: javaplays-rest-basic
+
+  
