@@ -1,7 +1,7 @@
 Bluemix Java REST Application - Basic
 ===
 
-#Once Click Deploy to Bluemix
+#One Click Deploy to Bluemix
 Use this button to deploy this application directly to your Bluemix.
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ibmecod/javaplays-rest-basic.git)
 
